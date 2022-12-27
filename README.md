@@ -1,6 +1,6 @@
 # my_learning
 
-A new Flutter project of my le.
+A new Flutter project of my learning.
 
 ## Getting Started
 
